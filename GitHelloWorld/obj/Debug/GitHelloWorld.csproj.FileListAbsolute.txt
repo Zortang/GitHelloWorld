@@ -1,0 +1,1 @@
+c:\users\zortnag\documents\visual studio 2013\Projects\GitHelloWorld\GitHelloWorld\bin\Debug\GitHelloWorld.exe.config
